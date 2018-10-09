@@ -2,7 +2,7 @@
 Data Entry Application is designed to be a web application that provides a simple user interface to manage data. The main goal of this project is to simplify the process of data management for personal use. By designing a system that stores and retrieves data automatically to the website, the Data Entry Application has been simplified from multiple excel and paper process to a simple click and type process. I believe that with this application in action, data entry can more efficient.
 
 # Installation
-For the installation of this application, users only have to Postgres and Docker as all required software support are already loaded into the Docker container
+For the installation of this application, users only have to have Docker as all required software support are already loaded into the Docker container
 
 # Technologies used to develop this application
 PHP,
